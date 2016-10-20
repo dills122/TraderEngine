@@ -1,0 +1,6 @@
+F:\Stock Trader Idea\TraderEngine\TraderEngine\bin\Debug\TraderEngine.exe.config
+F:\Stock Trader Idea\TraderEngine\TraderEngine\bin\Debug\TraderEngine.exe
+F:\Stock Trader Idea\TraderEngine\TraderEngine\bin\Debug\TraderEngine.pdb
+F:\Stock Trader Idea\TraderEngine\TraderEngine\obj\Debug\TraderEngine.csprojResolveAssemblyReference.cache
+F:\Stock Trader Idea\TraderEngine\TraderEngine\obj\Debug\TraderEngine.exe
+F:\Stock Trader Idea\TraderEngine\TraderEngine\obj\Debug\TraderEngine.pdb
