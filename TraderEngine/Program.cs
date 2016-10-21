@@ -31,7 +31,7 @@ namespace TraderEngine
             }
             dr.Close();
 
-            tr.BuyStock(1, StockID, 100);
+            tr.SellStock(1, 1, 110);
 
             cmd = new SqlCommand("select StockSymbol,StockPrice,Amount FROM STOCK as S inner join CURRENT_STOCK_PRICES as CS on CS.StockID = S.StockID where S.StockID = @StockID", conn);
             cmd.Parameters.Add(new SqlParameter("StockID", StockID));
